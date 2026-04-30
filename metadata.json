@@ -1,0 +1,8 @@
+{
+  "name": "AXON",
+  "description": "Secure, AI-powered health history hub. Your longitudinal medical memory, accessible via a unique Doctor's Key.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
